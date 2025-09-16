@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I’m Nidhi
 
-<!--
-**nidhirpatil/nidhirpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I’m currently working as a Site Reliability Engineer (SRE) at Clarisights, with over 5 years of experience in building reliable, scalable, and secure systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My expertise spans across key areas of SRE, including:
+
+🔹 Monitoring & Alerting
+
+🔹 Incident Management & Reliability Engineering Practices
+
+🔹 Google Cloud Platform (GCP) & AWS
+
+🔹 CI/CD Pipelines & Automation
+
+🔹 Kubernetes & Container Orchestration
+
+🔹 Infrastructure as Code (Terraform, Helm, etc.)
+
+When I’m not deep into infrastructure and systems, you’ll usually find me reading books 📚. I enjoy quiet time at home, with the occasional travel to break the routine ✈️. 
